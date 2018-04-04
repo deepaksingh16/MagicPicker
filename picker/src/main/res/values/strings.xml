@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MagicPicker</string>
+
+    <string name="add_photo">Choose option</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="permission_required">Permission required</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="gallery_permission_required">Gallery permission is required</string>
+    <string name="write_permission_required">Storage write permission is required</string>
+</resources>
